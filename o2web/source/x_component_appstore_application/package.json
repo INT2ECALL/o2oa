@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@o2oa/component": "^1.1.6",
-    "@o2oa/react-scripts": "5.0.3",
+    "@o2oa/react-scripts": "5.0.5",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
     "@testing-library/user-event": "^13.5.0",
