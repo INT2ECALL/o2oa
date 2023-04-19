@@ -493,7 +493,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore></ignore>
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
@@ -686,12 +686,12 @@
 			<dependency>
 				<groupId>org.eclipse.jetty</groupId>
 				<artifactId>jetty-server</artifactId>
-				<version>9.4.33.v20201020</version>
+				<version>9.4.51.v20230217</version>
 			</dependency>
 			<dependency>
 				<groupId>org.eclipse.jetty</groupId>
 				<artifactId>jetty-deploy</artifactId>
-				<version>9.4.33.v20201020</version>
+				<version>9.4.51.v20230217</version>
 			</dependency>
 			<dependency>
 				<groupId>org.eclipse.jetty</groupId>
@@ -706,7 +706,7 @@
 			<dependency>
 				<groupId>org.eclipse.jetty</groupId>
 				<artifactId>jetty-proxy</artifactId>
-				<version>9.4.33.v20201020</version>
+				<version>9.4.51.v20230217</version>
 			</dependency>
 			<dependency>
 				<groupId>com.google.zxing</groupId>
