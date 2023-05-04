@@ -493,7 +493,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore></ignore>
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
@@ -686,7 +686,7 @@
 			<dependency>
 				<groupId>org.eclipse.jetty</groupId>
 				<artifactId>jetty-server</artifactId>
-				<version>9.4.33.v20201020</version>
+				<version>9.4.51.v20230217</version>
 			</dependency>
 			<dependency>
 				<groupId>org.eclipse.jetty</groupId>
@@ -706,7 +706,7 @@
 			<dependency>
 				<groupId>org.eclipse.jetty</groupId>
 				<artifactId>jetty-proxy</artifactId>
-				<version>9.4.33.v20201020</version>
+				<version>9.4.51.v20230217</version>
 			</dependency>
 			<dependency>
 				<groupId>com.google.zxing</groupId>
@@ -849,7 +849,7 @@
 			<dependency>
 				<groupId>org.quartz-scheduler</groupId>
 				<artifactId>quartz</artifactId>
-				<version>2.3.1</version>
+				<version>2.3.2</version>
 			</dependency>
 			<dependency>
 				<groupId>org.imgscalr</groupId>
@@ -1175,7 +1175,7 @@
 			<dependency>
 				<groupId>org.apache.hadoop</groupId>
 				<artifactId>hadoop-client</artifactId>
-				<version>3.3.4</version>
+				<version>3.3.5</version>
 			</dependency>
 			<dependency>
 				<groupId>com.sun.mail</groupId>
@@ -1190,7 +1190,7 @@
 			<dependency>
 				<groupId>io.swagger.core.v3</groupId>
 				<artifactId>swagger-core</artifactId>
-				<version>2.2.0</version>
+				<version>2.2.7</version>
 			</dependency>
 			<dependency>
 				<groupId>io.swagger.core.v3</groupId>
